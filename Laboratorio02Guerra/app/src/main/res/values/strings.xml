@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratorio02Guerra</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="heigth">Heigth</string>
+    <string name="weigth">weigth</string>
+    <string name="bmi">BMI</string>
+    <string name="kg">Kg</string>
+</resources>
